@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-# -*- coding: UTF-8 -*-
-#Code by LeeOn123
+# -*- coding: HENGKER -*-
+#CODED BY TRAYL1NZ
 #Updated at 15/7/2019
 #====================================================================#
 # ____        _   _                   ____        _              _   #
